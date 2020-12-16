@@ -1,0 +1,12 @@
+{
+  "organization": [
+    {
+      "id": 1,
+      "name": "FC Barcelona"
+    },
+    {
+      "id": 2,
+      "name": "Real Madrid"
+    }
+  ]
+}
